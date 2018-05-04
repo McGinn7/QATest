@@ -1,0 +1,11 @@
+Most of the following code is taken from BasicLabelUI and/or WindowsLabelUI but I added code to make it work with multiple lines. This was the minimum amount of copied code I could get to work. You can set the separator character between the lines with setSeparator or by changing the default on the instantiation of LinesAndIndex. I have not done extensive testing on this but it works for me so far. When using HTML the mnemonic did not work so I created this. If you have a better way to accomplish this please correct the code.
+option1
+option2
+option3
+option4
+
+this is problem2.
+option5
+option6
+option7
+option8
