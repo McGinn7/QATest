@@ -1,11 +1,1243 @@
-Most of the following code is taken from BasicLabelUI and/or WindowsLabelUI but I added code to make it work with multiple lines. This was the minimum amount of copied code I could get to work. You can set the separator character between the lines with setSeparator or by changing the default on the instantiation of LinesAndIndex. I have not done extensive testing on this but it works for me so far. When using HTML the mnemonic did not work so I created this. If you have a better way to accomplish this please correct the code.
-option1
-option2
-option3
-option4
+What does the man imply about the woman? 
+She doesn¡¯t like to write letters. 
+She is happy to be here with her friends.
+She likes to mail her letters herself.
+She¡¯s written a lot of letters recently.
 
-this is problem2.
-option5
-option6
-option7
-option8
+What do you learn about Professor Ford?
+She teaches high school.
+She wants more ice in her glass.
+She never misses class.
+She thinks cold weather is nice.
+
+What does the man mean?
+The woman should ask someone else for help.
+He wonders if the woman hears a noise.
+They can work together the next day.
+He didn¡¯t hear her question.
+
+What is true about John, according to the woman?
+John is too far away to hear.
+John is out of money.
+John hasn¡¯t left yet.
+John doesn¡¯t hear well.
+
+What is the implication of the woman?
+The guests aren¡¯t thirsty.
+Water isn¡¯t appropriate for guests.
+The guests don¡¯t want to be served water.
+There isn¡¯t enough water.
+
+What will the woman probably do next?
+Lend the man some money.
+Take the man to the bank.
+Ask the man when he¡¯ll be paid.
+Ask the man to write her a check.
+
+Why didn¡¯t the woman return the man¡¯s calls?
+She forgot to call him.
+Her telephone is broken.
+She didn¡¯t get the man¡¯s messages.
+She couldn¡¯t remember the man¡¯s phone number.
+
+Why is the man carrying an extra suitcase?
+He received permission to carry an extra bag.
+He doesn¡¯t know he is allowed to carry only one with him on the plane.
+The extra suitcase he is carrying belongs to someone else.
+He has too much stuff.
+
+What does the man think the woman should do?
+Travel into the city another day.
+Pick up her medicine before they leave.
+Avoid driving after taking her medicine.
+Wait to take her medicine until after their trip.
+
+What does the woman predict will happen?
+The air will be cleaner if they go to a different city.
+It¡¯ll soon be too late to control the pollution.
+Society will not pay attention to the new laws.
+The situation will improve with the new changes.
+
+Why isn¡¯t the man wearing a jacket?
+He didn¡¯t have time to look for his jacket.
+He didn¡¯t like its style. ¡®
+He didn¡¯t know it would be cold.
+He forgot to bring his jacket.
+
+What will the professor probably allow the student to do?
+Attend a conference with her.
+Mail her the paper after the deadline.
+Submit a handwritten draft of the paper.
+Complete the course without submitting the paper.
+
+What does the woman want to know?
+She wants to know who saw Mary this morning.
+She wants to know when the man got to the office.
+She wants to know if Mary has come by this morning.
+She wants to know which person in the office needed help.
+
+What does the woman mean?
+She fell asleep before the program ended.
+She especially enjoyed the end of the program.
+She missed the beginning of the program.
+She wishes she had gone to sleep earlier.
+
+
+
+What can be inferred about the man?
+He doesn¡¯t like to take pills.
+He may not be able to wake up.
+He may feel better soon.
+He may want to take the pills without food.
+
+Between 1990 and 2000, what changes did the world population have?
+It had more than doubled.
+It had more than tripled.
+It had less than doubled. 
+It had increased by almost a billion. 
+
+According to some scientists, which of the following is true?
+The world¡¯s natural resources are adequate and evenly distributed.
+The world¡¯s natural resources are adequate but not evenly distributed.
+The world¡¯s natural resources are neither adequate nor evenly distributed. 
+The world¡¯s natural resources are adequate but evenly distributed. 
+
+Why can¡¯t most of the earth¡¯s water be used? 
+There is too little to supply such a large population. 
+It¡¯s mostly salt or frozen at the North and South Poles. 
+It¡¯s mostly polluted. 
+The water supply is decreasing. 
+
+In developing countries, what does the use of modem farming methods result in?
+It can greatly increase worldwide production. 
+It can slightly increase worldwide production. 
+It can hardly increase worldwide production. 
+It can slightly decrease worldwide production. 
+
+According to the author, what can you infer from the passage? 
+Limiting population growth will help to reserve natural resources. 
+The problem of overpopulation cannot be solved. 
+Limiting population growth will help to produce natural resources.
+Limiting population growth cannot solve the shortage of natural resources.
+
+When does the rainfall come in the Middle East? 
+In spring.
+In summer.
+In winter.
+In autumn.
+
+
+
+What is the cause of the water crisis in the region?
+Lack of water resources. 
+Lack of rainfall. 
+Inefficient use of water.
+All of the above.
+
+How many years are left for Israel and Jordan before their agriculture is threatened? 
+5 to 10 years.
+10 to 15 years. 
+15 to 20 years.
+20 to 25 years.
+
+What is the current population in the Middle East according to the passage? 
+150 million. 
+159 million. 
+260 million. 
+269 million. 
+
+According to some experts¡¯ suggestion, what should the nations do in order to avoid a water crisis? 
+The nations should share both technology and resources. 
+The nations should pay much more attention to the problem. 
+The nations should stop political rivalries. 
+The nations should control the region¡¯s population.
+Q: Why is the office calling the man?
+To tell him the time for the meeting.
+To change the appointment time.
+To cancel the appointment.
+To remind the man of the date and the time of the appointment. 
+
+What does the man mean?
+No one believes he won the scholarship.
+He¡¯s surprised that he got the scholarship.
+It isn¡¯t true that he won the scholarship.
+He¡¯s glad to award the woman the scholarship. 
+
+When Will the woman discuss her project with Professor Davidson? 
+During her economics class.
+Before her economics class. 
+In about an hour.
+The next day.
+
+What do you learn about the woman?
+The nurse wasn¡¯t able to help her.
+She¡¯s going to help the nurse as soon as she feels better. 
+She thinks she should ask the nurse for a pill. 
+She feels sleepy because of the medicine she took.
+
+What does the woman want to know?
+Whether she can make a proposal.
+Whether Bill needs her help.
+Whether she can review Bill¡¯s summary.
+Whether she can speak for Bill.
+
+What problem does the woman have? 
+She wasted too much film. 
+It is difficult for her to take a picture of the mountains.
+She doesn¡¯t have any more film.
+She doesn¡¯t know how to use the camera. 
+
+What does the man mean?
+Their food will arrive shortly.
+He¡¯ll take their order soon.
+He¡¯s ready to take their¡¯ order.
+They¡¯ll have to wait for a table.
+
+
+
+
+What will the man probably do next?
+Borrow the woman¡¯s car keys,
+Listen to the weather report.
+Go to his car.
+Lend the woman his umbrella.
+
+What can be inferred about the man¡¯s daughter".
+She doesn¡¯t Spend much time with her friends.
+She doesn¡¯t like her school.
+She has adapted easily to her new school.
+She spends most of her free time at school.
+
+What¡¯s the man probably doing?
+Writing an article.
+Studying for a chemistry test.
+Shopping for shoes.
+Reading a magazine.
+
+What do you think of the woman? 
+She¡¯s too lazy to do anything. 
+She is busy all day long.
+She prefers to keep busy.
+She is hard to please
+
+What does the woman suggest the man do? 
+Change his diet.
+Take a different kind of medicine.
+Ask another doctor about the problem.
+Do special knee exercises.
+
+What will the woman probably do?
+Ask a friend for the name of a hair stylist.
+Get her hair cut at 12:00.
+Make an appointment with someone else.
+Call another hair salon.
+
+What does the man imply?
+He doesn¡¯t have time to read.
+He has no reading preferences.
+He doesn¡¯t read the same kinds of books as the woman. 
+He likes to write essays on social topics.
+
+
+
+What will the woman probably do?
+Call a repair person soon.
+Ask the man to fix her refrigerator.
+Find a book on how to make repairs.
+Wait to see if the problem disappears.
+
+
+When does the number of purse snatchings decrease most dramatically
+When a professional purse snatcher is locked away.
+When a professional purse snatcher is release from police station.
+When a teenager is in a restaurant. 
+When a teenager is on a train. 
+
+Where does a purse snatcher like to commit crimes in subway stations? 
+On a train. 
+In a restaurant. 
+Between two subway cars. 
+In a restroom. 
+
+When women are in restaurants, where are they advised to put their purses? 
+On a vacant chair at a table: 
+At their feet beside their chairs. 
+On their wrist. 
+On the floor between their legs. 
+
+What does a thief often use to snatch purses in restaurants? 
+A hook. 
+An umbrella with the curved handle down. 
+A stick. 
+A bar. 
+
+According to this passage, where does purse snatching not usually occur? 
+Subway stations.
+Ladies¡¯ rooms. 
+Restaurants.
+Hospitals.
+
+What happened to Mrs. Weinberger on the afternoon of July 4th, 1995? 
+She saw her baby taken away by a man. 
+Her baby was kidnapped. 
+Her baby was seriously ill. 
+She lost $2,000. 
+
+
+Accoring to the message left by the kidnapper, on what condition could Mrs. Weinberger have her baby back? 
+She had to help the man escape the city they lived in.
+She had to give the police a sum of money for help. 
+She had to give $2,000 to the man who knew where the baby was.
+Her baby recovered from her illness. 
+
+What did Mrs. Weinberger do after reading the note?
+She reported it to the police. 
+She sent the money to the man.
+She hurried to the hospital. 
+She went to the appointed place.
+
+How did the FBI catch the criminal?
+By analyzing his fingerprints.
+With the help of the neighbors. 
+By analyzing his handwriting.
+By means of the small parcel left by the criminal. E
+
+Which of the following words can best describe people¡¯s handwriting characteristics?
+Individuality.
+Angle.
+Dot. 
+Fingerprint.
+
+What is the woman saying? 
+She's not quali?ed to write the report. 
+She¡¯s too busy to help the man.
+She¡¯s surprised by the man¡¯s request.
+She¡¯d rather meet the man tonight.
+
+What does the man suggest the woman do?
+Write a check to pay for the books.
+Place an order for more books.
+Open the box of books that the company shipped.
+Call the company she ordered the books from.
+
+What can be learned about the woman?
+She has to type two more pages,
+She ?nished her work long ago.
+She wants the man to help her after he is done.
+She and the man will complete their work at about the same time. 
+
+What does the man say about the editorial?
+It predicted the mayor would lose the election.
+It clari?ed the mayor¡¯s position.
+It didn¡¯t accurately represent the mayor¡¯s speech.
+It listed the mayor¡¯s accomplishments.
+
+What can be inferred about the man?
+He doesn¡¯t have the to go to a movie. 
+He¡¯s upset with the woman.
+He doesn¡¯t usually enjoy comedies. 
+He has almost ?nished his work.
+
+What is true about the man?
+He has just recovered from the ?u. 
+He won¡¯t be able to go to the play.
+He heard that the play isn¡¯t very good.
+He has already seen the play.
+
+What does the woman suggest Gordon do?
+Share the place he now lives in.
+Avoid living near the campus.
+Apply for campus housing.
+Find an apartment soon.
+
+
+
+What does the man mean?
+He wants to meet the woman after his Spanish class.
+The woman should borrow someone else¡¯s workbook.
+He can take the woman to her class.
+The woman needs to return the workbook before the class.
+
+What is the man's attitude towards diets?
+He believes that diets are really good.
+He thinks that diets by themselves are not useful.
+According to him diets can be harmful.
+He is not interested in diets at all.
+
+What is the implication of the man?
+There are different kinds of folders.
+This decision requires careful thought.
+It doesn¡¯t matter which color she uses.
+The color should suggest the content.
+
+What does the man imply about Professor Martin?
+She prepares her students well.
+She used to teach graduate courses.
+She isn¡¯t quali?ed to teach Organic Chemistry.
+Her students rarely attend graduate school.
+
+Which of the following is true according to the conversation?
+The man decided not to sell the piano.
+The man is looking for a place to store the piano.
+No one has bought the piano.
+The man hasn¡¯t been able to ?nd an inexpensive piano yet.
+
+Why hasn¡¯t the man gotten to know his neighbors?
+He doesn¡¯t like his neighbors.
+His neighbors intend to go on vacation.
+His neighbors aren¡¯t very sociable.
+He is too busy to meet his neighbors.
+
+What is the implication of the man?
+He already knew about the problem.
+Someone has started ?xing the washing machine.
+No one complained about the washing machine today.
+There¡®s nothing wrong with the washing machine.
+
+
+
+
+What can be learned about the man?
+He lives far away from the train' station.
+It¡¯ll be easy for him to give the woman a ride to the station.
+He¡¯ll ride on the train with the woman.
+He¡¯s picking someone up from the station. 1
+
+According to the passage, what are educators discovering?
+The usefulness of computers in learning.
+A teaching method. 
+A technology.
+A network.
+
+What do schools usually purchase computer networks for?
+Teaching computer class.
+Keeping attendance records.
+Obtaining information.
+Sending messages. 
+
+According to the author, what should computers be mainly used for? 
+It should be mainly used for arousing students¡¯ interest in learning. 
+It should be mainly used for production.
+It should be mainly used for administrative work. 
+It should be mainly used for paper grading.
+
+Which of the following is NOT a feature of video conferencing? 
+Students in different places are brought together face to face via computer. 
+Teachers and students can see and talk with each other.
+Video conferencing can keep the students interested in learning. 
+It is easy for teachers to organize group discussion. 
+
+5. Which of the following is true according to the passage? 
+Technology has not developed to the extent that it can be applied to teaching.
+Administrative work is so important that it should be deemed as the math part of schoolwork. 
+Students attending video conferencing must have the same cultural background.
+Education can be delivered to students through computers and the Internet.
+
+
+
+
+
+Before being used for commerce, what was the Internet mainly used for?
+For the army and research work in universities.
+For education.
+For transportation.
+For management. 
+
+Which one of the following is NOT a factor that can make transactions more efficient on the Internet? 
+Speedy communication.
+Availability of products for sale on the Internet.
+Timely updated information.
+Customers.
+
+Why does distance become meaningless in e-commerce?
+Because the Internet links everyone in any part of the world and transmits information at a very high speed.
+Because there are no national boundaries on the Internet.
+Because neither businessmen nor customers need to travel a long distance.
+Because transportation has been much faster than before. 
+
+What do customers worry about in e-commerce?
+Prices of products.
+Speed of transaction. 
+Quality of products. 
+Privacy and security.
+
+What is the main idea of this passage? 
+The advantages of e-commerce.
+The disadvantages of e-commerce.
+The function of e-commerce.
+The history of e-commerce.
+Which one of the following is true according to the man? 
+The new bookstore is too far away. 
+The store has all the latest books.
+There was a bookstore there before.
+The books in the store are old.
+
+What has Alice probably been doing? 
+Reading the paper.
+Taking a final exam.
+Helping the librarian.
+Studying.
+
+
+What does the man suggest the woman do?
+Get another car.
+Ask someone else to help her.
+Buy something less expensive.
+Go to another repair shop.
+
+How do you interpret what the woman said?
+Winter is one of her favorite Seasons.
+She packed up her winter clothes months ago.
+She¡¯s happy the season has changed.
+The warm weather might not last long.
+
+What does the man say about his team?
+His team won the other night.
+His team didn't play at its best.
+His team always loses.
+His team played for the first time.
+
+What is the implication of the woman? 
+Each person will be allowed to buy only one ticket. 
+The tickets will sell out quickly. 
+The rock concert will probably be reschedule
+There w1ll be extra tickets at the rock concert. 
+
+What does the man plan to do next? 
+Board the train. 
+Send a fax.
+Change his departure time.
+Have breakfast.
+
+
+What can be known from the conversation?
+The woman should cut the man¡¯s hair again.
+The man wants the woman to cut his hair' extremely short. 
+The man is bald and doesn¡¯t need a haircut.
+The woman previously cut off too much of the man¡¯s hair. 
+
+What does the woman imply the man should do?
+Find out how much work will be required for the class.
+Take another class instead of creative writing.
+Ask his advisor about the instructor for the Wednesday class.
+Sign up for the Wednesday class.
+
+What will the woman probably do tonight?
+She will have to practise her speech.
+She will try the new sea food restaurant.
+She will need the man¡¯s help.
+She will deliver her speech.
+
+What does the man suggest the woman do?
+Try to find out whom the wallet belongs to.
+Keep the wallet until someone comes looking for it.
+Leave the wallet where she found it.
+Get the attention of the person who dropped the wallet.
+
+Why does the man suggest they should watch the TV programme on Sunday?
+The programme isn¡¯t showing on Saturday.
+He¡¯ll meet the woman on Saturday. 
+The man has to help someone on Saturday. 
+His cousin arrives on Saturday. 
+
+What can be inferred about the woman, concerning the platter? 
+She can¡¯t help the man look for another platter. 
+She forgot the platter had been broken. 
+She didn¡¯t realize the platter had been broken. 
+She doesn¡¯t want the man to replace the platter. 
+
+What does the man mean?
+The woman can take a bus to the museum.
+The woman should wait in front of the museum.
+He doesn¡¯t know where the museum is.
+There¡¯s only one bus that travels down Main Street.
+
+
+
+
+What information can you get from the woman? 
+She¡¯d like to take a later flight.
+They should leave for the airport immediately. 
+They won¡¯t arrive late.
+She isn¡¯t afraid to travel alone.?
+
+What lesson can we draw from this story?
+Gold is very valuable and it is by far dearer to us than our parents.
+It is dangerous if you care for nothing but money.
+Money can not only make people wealthy but bring them happiness as well.
+People can not live without gold though they can not eat or wear it.
+
+When did the news of the gold discovery spread all over the USA?
+After Sutter died.
+After Sutter sent a man to Mom the governor.
+Not until the news had spread to Europe.
+When a reporter made a report after his visit to Sutter¡¯s sawmill.
+
+Why were many families broken up and husbands taken away from their wives?
+Husbands did not love their wives any longer, and children no longer loved their parents.
+The California Gold Rush was the beginning of the civil war.
+Worshippers of gold loved the metal so much that they would even desert their wives and children.
+Those people who hurried to California all wanted to have a Settlement of their own.
+
+What happened to Mr. Sutter in the end according to the story?
+Disasters happened to him one after another, his business was ruined and he became very poor.
+His family enjoyed the entire wealth of his settlement.
+He went mad, killed all his family and burned down all his houses.
+He succeeded in driving the prospectors off his land.
+
+What does the story tell us?
+Gold is evil.
+We should care more for gold than for our family.
+Americans are all greedy.
+We should not put wealth before everything else.
+
+
+
+
+
+How many functions does money have? 
+Two.
+Three. 
+Four. 
+Five.
+
+Why do we say that money is a means? 
+Because it helps us to solve problems.
+Because it makes us live comfortably.
+Because it enables us to exchange goods and services. 
+Because it is a means of communication
+
+What is the main feature of commodities? 
+They are valuable things. 
+They can be bought and sold.
+Their value can remain approximately constant. 
+They can be exchanged freely.
+
+Which of the following is true according to the passage? 
+Money enables us to make use of old things. 
+All things in the world can be measured by money. 
+Money is fixed and unchangeable in comparison with other things. 
+Money is not a standard of value because it does vary.
+
+
+What happens to money in times of financial crisis? 
+It may go bad.
+It may lose some of its value.
+More money is deposited in the bank.
+The total amount of money may be increased.
+What does the man want to tell the woman?
+He¡¯s unable to work on his paper.
+He can not give the woman his typewriter.
+He¡¯s run out of paper.
+He doesn¡¯t have any money
+
+What does the man think of Susan¡¯s apple pie? 
+Nothing can be worse¡¯ than it.
+It was very delicious.
+It is the best food for everyone in the world.
+Only the last piece was not so good.
+
+What does the man mean?
+He hopes to leave before the woman does.
+His office is one hour away from his home.
+He¡¯s certain the lock works.
+He will leave the office in about an hour.
+
+
+What does the man say about Nancy?
+She¡¯s not a good skier.
+She went skiing on Thursday.
+She won¡¯t be able to go skiing.
+She really gets thirsty while skiing.
+
+What does the woman tell the man?
+She¡¯ll pay him 75 cents to carry the packages.
+He should stop blocking the doorway.
+It¡¯s not far for her to carry the packages.
+She appreciates his carrying the packages.
+
+What will the man probably do?
+Go to Sally¡¯s room.
+Call Sally.
+Talk to Sally¡¯s friends.
+Start studying without Sally.
+
+What conclusion can be drawn from the conversation?
+The party should have ended sooner.
+The man¡¯s apartment is too small for parties.
+The woman would like to be invited to the next party.
+The man will spend the day cleaning. 
+
+
+
+What can be inferred from the conversation?
+The woman¡¯s business didn¡¯t make much money, but she didn¡¯t lose any.
+The woman doesn¡¯t like selling jewelry.
+The woman has to close her business.
+The man broke some of the woman¡¯s jewelry. 
+
+What will the man probably do?
+Try to call Bill at a different location. 
+Tell Bill to call the woman about the presentation. 
+Give Bill a copy of the presentation at dinner. 
+Invite Bill to the woman¡¯s house for dinner. 
+
+What can we conclude from the conversation?
+The woman doesn¡¯t care for cake.
+The woman would like some more dessert.
+The woman has had enough to eat.
+The cake was over-baked.
+
+What can be inferred from the conversation?
+The woman forgot Debbie¡¯s birthday.
+The woman didn¡¯t know what Debbie wanted.
+The woman didn¡¯t buy a sweater for Debbie.
+The sweater the woman bought doesn¡¯t fit Debbie.
+
+What is true about the woman?
+She can complete the preparations in time.
+She wants everyone to work together.
+She anticipates help from the man.
+She thinks only a little planning is necessary. 
+
+What does the man suggest they do?
+Ask someone else to go to the concert with them.
+Find out when the concert begins.
+Meet at the concert.
+Go to the concert another evening.
+
+How do you interpret the conversation?
+The woman will eat the toast anyway.
+The woman is not hungry.
+The woman doesn¡¯t like toast.
+The woman will toast the bread by herself.
+
+
+
+What will the woman probably do?
+Register for fewer courses next semester.
+Go to the registrar¡¯s office soon.
+Call the registrar¡¯s office later. 
+Apply for a job at the registrar¡¯s office.
+
+What kind of region are the Highlands?
+They are abundant with coca.
+They are a region rich in legend.
+They are hilly and mountainous.
+They are a region with many romantic patriotic people.
+
+Where might tourists stay on their first night in Scotland?
+At a hotel in the mountainous are
+At a hotel in the little town of Callander.
+In farmers¡¯ house in the neighborhood.
+In the house of a Scottish friend.
+
+What is meant by ¡°high tea¡±?
+It is a meal with rich nutrition.
+It is a kind of tea with milk and sugar.
+It is a meal which takes the place of tea and dinner.
+It is a kind of food which consists of bread and butter with jam.
+
+What is the road to the west coast like in Scotland?
+It is dangerous.
+It twists, turns and climbs.
+It is muddy.
+It is wet and slippery. 
+
+What animals does a tourist see on the way to the west coast?
+Long-haired Highland cattle. 
+Long-haired sheep. 
+Ordinary cattle.
+Goats.
+
+Where does Wales lie? 
+On the eastern side of Britain.
+In the centre of Britain.
+On the western side of Britain. 
+In the north of Britain.
+
+Which of the following can describe the Welsh mountains? 
+They are rugged and forbidding, but the slopes are green. 
+They are popular for holidays. 
+They are remote from big cities, but polluted by heavy industry. 
+They have rich coal resources. 
+
+Which place is ideal for a climbing and walking holiday? 
+The isolated villages remote from town. 
+The highest peak in the Welsh mountains, Snowdon. 
+The valleys of south Wales. 
+The seaside resorts. 
+
+Why is Wales often called ¡°The Land of Song¡±? 
+Many famous singers are from there. 
+An arts festival is held there every year.
+The Welsh people are famous for their good voices.
+The Welsh girls are good at singing.
+
+What percentage of the population of Wales speaks Welsh?
+A quarter
+A half
+Three quarters
+Two thirds
+
+What does the man imply?
+The classes have improved his health.
+His new glasses fit better than the old ones. 
+He¡¯s thinking of taking exercise classes.
+He¡¯s unhappy about his life.
+
+Which one of the following is true about the woman?
+She also found the book difficult.
+She has learned a lot about names.
+She doesn¡¯t remember the title of the novel.
+She read a different book.
+
+What does the woman mean?
+They¡¯ll have to go to a later show. 
+The people in line all have tickets. 
+She doesn¡¯t want to go to the second show.
+They won¡¯t have to wait much longer.
+
+What does the man ask the woman?
+If it¡¯s too late for her to drop the course. 
+If she sympathizes with him.
+If she apologized for what she did.
+If she regrets taking the course.
+
+What can be inferred about the woman? 
+She¡¯ll be travelling during the winter break.
+She¡¯ll be working during the winter vacation.
+She¡¯s looking forward to going home. 
+She wants to hire another research assistant. 
+
+According to the woman, who should be responsible for the problem?
+Larry.
+Larry¡¯s roommate.
+Neither of them.
+Both of them.
+
+What will the man probably do according to the woman?
+He will probably take his vacation according to his schedule.
+He is likely to cancel his vacation plans.
+He will probably go on vacation ahead of schedule.
+The man may have to reschedule his trip.
+
+What can be inferred about the woman¡¯s paper?
+It was not long enough.
+It wasn¡¯t as good as she thought.
+Her professor was. pleased with it.
+It was written according to the professor's guidelines.
+
+What does the man imply the woman should do?
+Go to the ballet later in the year.
+Take ballet lessons with his sister.
+Get a schedule of future performances.
+Get a ticket from his sister.
+
+How do you interpret the woman¡¯s words?
+Her hotel is located far from the conference center.
+She didn't want to stay at the Gordon.
+The man should consider moving to a different hotel.
+She isn¡¯t sure how to get to the conference center.
+
+What can be inferred about the man¡¯s article? 
+Few readers agreed with his ideas. 
+Very few people have read his article. 
+It is not expected to be published.
+It is not worth reading at all. 
+
+What can be inferred about the man? 
+He¡¯ll go with the woman to the next hockey game.
+He missed the hockey game because he was ill.
+He forgot about the hockey game.
+He doesn¡¯t like to go to hockey games. 
+
+What is Karen likely to do? 
+She is likely to drive to the airport next Tuesday.
+She will attend the meeting next Tuesday.
+She has to change her plans at the last minute.
+She is returning from a trip on Tuesday. 
+
+What does the woman suggest the man do? 
+Call her after five.
+Make calls from her phone.
+Go to the meeting with her.
+Fix her phone. 
+
+What will the speakers probably do?
+Look for more information for their' financial plan.
+Ask for more time to finish their' financial plan. 
+Finish their financial plan with the material available to them.
+Turn in their financial plan later.
+
+What is the SAT? 
+The most widely used graduate school admissions test in the U.S. 
+An admissions test for non-native English speakers. 
+The most widely used college admissions test in the U.S. 
+A test used to judge if a person is qualified in his later career. 
+
+What is the purpose of the SAT? 
+To help college officials identify which students would be successful in college. 
+To help graduate school officials identify the students¡¯ thinking ability. 
+To let parents know the IQ of their children.
+To let employers know the English proficiency of their employees. 
+
+How is the new SAT to be different from the former one? 
+The new SAT focuses on a student¡¯s calculating skills. 
+The new SAT emphasizes a student¡¯s speaking ability. 
+The new SAT better tests a student¡¯s reasoning and thinking skills. 
+The new SAT underlines a student¡¯s memorizing ability. 
+
+Which of the following is NOT true about the changes of the SAT?
+Analogy questions will be replaced with questions that better show the students¡¯ reading ability.
+Higher level mathematics questions will be added.
+A writing test will be added.
+Listening comprehension questions will be put at the beginning of the test.
+
+Why did the president of the University of California call on his school to stop using the SAT as an entrance requirement?
+The skills it tests are not taught in high school
+The results of the test do not show if students are prepared to attend college.
+On the SAT, too much attention is paid to students¡¯ reading ability.
+Both a and b.
+
+What is required before someone enters medical school? 
+Two-year work in a research job.
+Four-year attendance at college or university. 
+One-year work in a medical job.
+Two-year study of biology and chemistry.
+
+How many medical colleges are there in the US? 
+120
+170.
+660
+125.
+
+How much does medical education cost each year? 
+$30,00
+$17,00
+$35,00
+$66,00
+
+What do many of the students think of their first year of medical school? 
+It is rather easy.
+It is easy but life is empty.
+It is the most difficult. 
+Life is meaningful.
+
+Which of the following about medical residency is NOT true?
+It is a medical training program.
+During the period of being a resident, a person thinks about the kind of medicine he or she would like to practice.
+During the fourth year of medical school, each medical student begins seeking to be a medical resident in a hospital.
+The years of working as residents are not fixed.
+What is the problem for them according to the man?
+The man is too busy to go to the concert with the woman.
+The line for concert tickets is too long. '
+The man hasn¡¯t been able to reach Carl.
+Carl declined the invitation to the concert.
+
+What is the man probably doing?
+Wrapping a parcel to be mailed.
+Getting furniture ready for the moving truck.
+Buying meat from a butcher,
+Getting clothes ready to go to the cleaners.
+
+What does the man mean?
+He expected to see Andrew at the airport.
+Andrew should have known the apartment would be noisy. 
+He¡¯d be happy to meet Andrew.
+Andrew is glad he moved away from the airport.
+
+What can be inferred about the lab?
+It¡¯s closed on Mondays.
+The man doesn¡¯t like working there.
+It¡¯s supposed to be open now.
+The man locked it at 10:00.
+
+What does the woman suggest they do?
+Take a cab.
+See the show some other night.
+Eat dinner after the show.
+Walk to the theater.
+
+What do you know according to the conversation?
+The woman has had the man¡¯s calculator since Thursday.
+The man¡¯s calculator is broken.
+The man may use the woman¡¯s calculator.
+The woman will return the man¡¯s calculator on Thursday.
+
+What does the woman suggest the man do?
+Buy a different kind of medicine.
+See a doctor.
+Take a second pill.
+Avoid taking any medication.
+
+Which one of the following is true about the man?
+He¡¯ll go running after his group meeting.
+He doesn¡¯t agree with the woman about the weather.
+He doesn¡¯t like to go running.
+He¡¯ll go with the woman this afternoon.
+
+Why does the man have a hater hair style than before?
+The woman cut it for him.
+The woman gave him some advice.
+The man had his hair cut in a new barbershop.
+A different person cut his hair this time.
+
+What does the woman imply?
+The man shouldn¡¯t be surprised at how busy he is.
+The man should leave more time for his studies.
+The man should try to find a different job.
+The bookstore will be hiring more people.
+
+What can be inferred from the conversation?
+The woman should get more sleep.
+The woman may be sicker than she realizes.
+The man isn¡¯t sick.
+The man doesn¡¯t think the woman is sick.
+
+
+Why doesn¡¯t the woman want the man to go to the museum on Monday?
+The art museum isn¡¯t open on Mondays.
+The bus to the museum doesn¡¯t run on Mondays.
+The traffic is heavy on Mondays
+She will go there with him on Tuesday.
+
+What does the woman mean?
+The man should buy a jacket instead of a suit.
+The green jacket doesn¡¯t fit as well as the blue one.
+The style of clothing is more important than the color.
+The man looks better in blue.
+
+What do you learn from the conversation ?
+The woman will get to her class on time.
+The woman should go to a different counter.
+The man doesn¡¯t like sandwiches very much.
+The man is having trouble deciding what to eat.
+
+What do you know about the woman?
+The woman will go to see her sister by train.
+The woman will visit her sister in three months. 
+The woman will have to leave without her sister.
+The woman is eager to see her sister.
+
+What do businesses choose to do about the prices of their products in competition? 
+Set higher prices.
+Leave the prices unchanged.
+Offer lower prices. 
+Keep the prices adjustable. 
+
+What does the phrase ¡°the most productive input-mix¡± mean?
+It means mixing inputs to produce goods or services at the lowest possible cost.
+It means mixing inputs through selling goods or services at the lowest possible prices.
+It means mixing inputs with goods or services sold at the lowest possible prices.
+It means mixing inputs to produce quality goods or services at the lowest possible cost. 
+
+Why is a company usually very careful about choosing its location? 
+Because the materials it needs are far away. 
+Because the customers it serves are not close-by. 
+Because its resources and customers are seldom close to each other.
+Because both production and transportation costs are high. 
+
+Why are the soft drink industry and the paper industry used as examples?
+Because they are excellent examples of Industries Influenced by transportation costs. ,
+Because they share a lot in common.
+Because they are both making lower profits.
+Because they transport their products at the same costs.
+
+What do transportation costs depend on?
+They depend on the location a company selects.
+They depend on the company¡¯s product. 
+They depend on the materials used to make the product.
+They depend on weight, bulk and distance.
+
+What is an advertisement often used to do?
+It is often used to deceive customers.
+It is often used to increase production.
+It is often used to arouse suspicion.
+It is often used to push the sale.
+
+
+According to the passage, what does the word "media" include?
+Newspapers and magazines.
+Television.
+Radio.
+All of the above.
+
+By whom is an advertisement mainly paid for?
+The customer.
+The producer.
+Increased sales.
+Reduced prices.
+
+Which of the following is NOT true according to the passage? 
+When the market is growing, advertising helps to increase demand.
+Many businesses such as those handling foods and tobacco have been built up largely by advertising. 
+When a market is shrinking, advertising can in no way help to prevent the fall in sales. 
+Advertising forms part of the cost of production. 
+
+What conclusion can you draw from the passage?
+Businesses usually do not pay much for advertisements. 
+Businessmen know that advertising can bring them more profits. 
+Advertisements can not convince people of the value of goods
+Advertisements usually cost more than businesses can afford.
+What does the woman imply about Arthur?
+He probably calls his brothers frequently.
+He should call his brothers more often.
+He does a lot of traveling
+He¡¯s saving money to visit his brothers. 
+
+
+What¡¯s wrong with the man¡¯s calculator, according to the woman?
+The battery is not correctly positioned.
+The battery is not suitable in size.
+The calculator needs a new battery.
+The quality of the battery is too low.
+
+What are the man and the woman talking about?
+They can get a guidebook in Montreal.
+A guidebook is necessary for them.
+The guidebook is too expensive to be bought.
+It¡¯s no use trying to get a guidebook.
+
+What are the speakers discussing?
+Being hungry.
+Having a big lunch.
+The Weather.
+Cooking
+
+What can be inferred from the conversation? 
+Tom¡¯s apartment probably costs more than the man¡¯s. 
+The man¡¯s place is becoming more expensive. 
+The woman¡¯s apartment is better than the man¡¯s.
+The woman wants to see Tom¡¯s new apartment.
+
+What does the woman suggest the man do?
+Drop out of the play. 
+Switch parts with another actor. 
+Be patient about learning his part.
+Have his lines memorized by tomorrow.
+
+What do you learn from the conversation?
+The woman agrees with the man.
+The man missed the last study session.
+The woman didn¡¯t understand the last chemistry class.
+The man should be more serious about his' studies.
+
+
+
+How do you interpret the man¡¯s answer?
+He can¡¯t meet the woman at the engineering building.
+He can¡¯t give the woman a ride.
+He has already passed the engineering building.
+He¡¯ll meet the woman after his appointment.
+
+What does the man mean?
+He¡¯ll give the quiz at a later time.
+The quiz will be very short.
+The quiz won¡¯t be ready until Thursday.
+He¡¯ll score the quiz quickly.
+
+What does the man suggest the woman do?
+Take the medicine as she was directed to do.
+Schedule another appointment with her doctor.
+Stop taking the medicine.
+Rest her back for a few days.
+
+What does the woman suggest the man do?
+Decide which movie to see. 
+Order his food quickly.
+Go to a later movie.
+Go to a different restaurant.
+
+Which one of the following is true about the woman?
+She doesn¡¯t like to watch basketball.
+She would like the man to accompany her to the game.
+She doesn¡¯t have a television.
+She¡¯ll sell the man her ticket.
+
+What can be inferred about the woman?
+She needs to find a new place to live.
+She spends a lot of time in the library.
+She prefers to study at home.
+She needs to return some books to the library.
+
+What does the doctor imply the man should do?
+Spend more time outdoors.
+Take short naps during the day.
+Try to get to bed earlier.
+Stay indoors until he feels better.
+
+
+What will the woman probably do next?
+Sharpen the man¡¯s pencil.
+Give the man a new sheet of paper.
+Show the man a drawing technique.
+Ask the model to move his arm.
+
+Which of the following is the most common tax?
+Luxury tax.
+Property tax.
+Income tax.
+Sales tax. 
+
+ ¡°Income tax is usually graduated.¡± What does the sentence mean?
+The tax percentage increases as a family¡¯s income increases.
+The tax percentage increases as a family¡¯s stipends increase.
+The tax percentage decreases as a family¡¯s expenses increase.
+The tax percentage increases as a family¡¯s property increases.
+
+What is the amount of property tax based on?
+How long the family owns the property.
+The property¡¯s value.
+The owner¡¯s income.
+The property¡¯s value and the owner¡¯s income.
+
+What is the revenue from sales tax used for?
+Public schools.
+Public safety.
+Roads, parks and benefits for the poor.
+All of the above.
+
+Where does the revenue from income tax usually go?
+To the state government.
+To the federal government.
+To the local government.
+To the community.
+
+What does the first amendment to the Constitution say about religion?
+The government gives direct subsidy to every faith. 
+There is no law by Congress respecting the establishment of religion. 
+There is a law by Congress to prohibit the free exercise of religion 
+There is no freedom for Americans to choose their religious faith.
+
+
+
+According to the passage, what happened between 1950 and 1970? 
+One of the biggest increases in church membership. 
+The event of prohibiting the free exercise of religion. 
+A big decrease in church membership.
+The emergence of classes in religious study.
+
+What percentage of Americans are members of churches in America?
+9%
+60%
+45%
+52%
+
+By whom are classes in religious study provided? 
+The federal government.
+Public educational institutions.
+Various religious groups.
+The local government.
+
+
+Where does support of the churches come from?
+Their members¡¯ voluntary donations.
+The state government. 
+The private schools.
+Religious groups.
+
+
+
+
+

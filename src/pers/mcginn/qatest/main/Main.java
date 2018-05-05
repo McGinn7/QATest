@@ -1,6 +1,7 @@
 package pers.mcginn.qatest.main;
 
 import java.awt.Dimension;
+import java.awt.Font;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
@@ -24,8 +25,8 @@ import javax.swing.JTextArea;
 
 public class Main {
 
-	private final int width = 700;
-	private final int height = 300;
+	private final int width = 800;
+	private final int height = 400;
 
 	private JFrame frame = null;
 
@@ -66,7 +67,8 @@ public class Main {
 		jta.setWrapStyleWord(true);
 		jta.setOpaque(false);
 		jta.setText(question.getProblem());
-		jta.setPreferredSize(new Dimension(width, 120));
+		jta.setPreferredSize(new Dimension(width, 140));
+		jta.setFont(new Font("Serif", Font.PLAIN, 32));
 		gbc.gridx = 0;
 		gbc.gridy++;
 		gbc.fill = GridBagConstraints.HORIZONTAL;
@@ -75,6 +77,7 @@ public class Main {
 		ButtonGroup group = new ButtonGroup();
 		for (int i = 0; i < question.getOptions().size(); ++i) {
 			JRadioButton jrb = new JRadioButton(question.getOptions().get(i));
+			jrb.setFont(new Font("Serif", Font.PLAIN, 24));
 			gbc.gridx = 0;
 			gbc.gridy++;
 			gbc.fill = GridBagConstraints.NONE;
@@ -127,10 +130,10 @@ public class Main {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		Collections.shuffle(list);
-		for (Question q : list) {
-			q.shuffleOptions();
-		}
+		// Collections.shuffle(list);
+		// for (Question q : list) {
+		// q.shuffleOptions();
+		// }
 	}
 
 	public static void main(String args[]) {
