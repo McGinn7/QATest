@@ -6,4 +6,10 @@ abdcc bdabc cacab cbcba cabca
 aaadb ddbda adabc cacdd bdacb
 cabcd ccdda caddd ddcad ddacb
 aabaa cdbaa bdbac dabdb babca
-
+ddbcc dbadb cdabd abbdb dbbdd
+dabca bdbba babca dccca abcdb
+ccaab cabbb accab bcada caabd
+cdaad caacb cadaa adcba accba
+ddccb daaaa aaaaa cdbbc cdabb
+acaac ccdca bbcca bddad bcbad
+cbdab adcbd dabbc adbca bdcda

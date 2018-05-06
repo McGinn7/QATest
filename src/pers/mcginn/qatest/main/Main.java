@@ -130,10 +130,11 @@ public class Main {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		// Collections.shuffle(list);
-		// for (Question q : list) {
-		// q.shuffleOptions();
-		// }
+		System.out.println("size = " + list.size());
+		Collections.shuffle(list);
+		for (Question q : list) {
+			q.shuffleOptions();
+		}
 	}
 
 	public static void main(String args[]) {
