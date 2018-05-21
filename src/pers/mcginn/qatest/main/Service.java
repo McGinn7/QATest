@@ -5,8 +5,8 @@ import java.util.List;
 
 public class Service {
 	
-	public static List<Question> getListQuestion(String probFilename, String ansFilename) throws Exception {
-		List<Question> probs = getProblem(probFilename);
+	public static List<Problem> getListProblem(String probFilename, String ansFilename) throws Exception {
+		List<Problem> probs = getProblem(probFilename);
 		String ans = getAnswer(ansFilename);
 		if (probs.size() != ans.length()) {
 			throw new Exception("Problems doesn't match answers, " + probs.size() + " problems and"
@@ -27,21 +27,21 @@ public class Service {
 	 * 	option3
 	 * 	option4
 	 */
-	private static List<Question> getProblem(String probFilename) {
-		List<Question> list = new ArrayList<Question>();
+	private static List<Problem> getProblem(String probFilename) {
+		List<Problem> list = new ArrayList<Problem>();
 		List<String> fileLines = FileUtil.readFileByLine(probFilename);
 		int index = 0;
-		Question question = null;
+		Problem problem = null;
 		for (String line : fileLines) {
 			if (line == null || "".equals(line))
 				continue;
 			if (index == 0) {
-				question = new Question();
-				question.setProblem(line);
+				problem = new Problem();
+				problem.setQuestion(line);
 			} else {
-				question.addOption(line);
+				problem.addOption(line);
 				if (index == 4) {
-					list.add(question);
+					list.add(problem);
 				}
 			}
 			index = (index + 1) % 5;

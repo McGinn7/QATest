@@ -60,7 +60,7 @@ The situation will improve with the new changes.
 
 Why isn¡¯t the man wearing a jacket?
 He didn¡¯t have time to look for his jacket.
-He didn¡¯t like its style. ¡®
+He didn¡¯t like its style.
 He didn¡¯t know it would be cold.
 He forgot to bring his jacket.
 
@@ -93,14 +93,14 @@ He may want to take the pills without food.
 Between 1990 and 2000, what changes did the world population have?
 It had more than doubled.
 It had more than tripled.
-It had less than doubled. 
-It had increased by almost a billion. 
+It had less than doubled.
+It had increased by almost a billion.
 
 According to some scientists, which of the following is true?
 The world¡¯s natural resources are adequate and evenly distributed.
 The world¡¯s natural resources are adequate but not evenly distributed.
-The world¡¯s natural resources are neither adequate nor evenly distributed. 
-The world¡¯s natural resources are adequate but evenly distributed. 
+The world¡¯s natural resources are neither adequate nor evenly distributed.
+The world¡¯s natural resources are adequate but evenly distributed.
 
 Why can¡¯t most of the earth¡¯s water be used? 
 There is too little to supply such a large population. 
@@ -163,7 +163,7 @@ He¡¯s surprised that he got the scholarship.
 It isn¡¯t true that he won the scholarship.
 He¡¯s glad to award the woman the scholarship. 
 
-When Will the woman discuss her project with Professor Davidson? 
+When will the woman discuss her project with Professor Davidson? 
 During her economics class.
 Before her economics class. 
 In about an hour.
@@ -309,7 +309,7 @@ Dot.
 Fingerprint.
 
 What is the woman saying? 
-She's not quali?ed to write the report. 
+She's not qualified to write the report. 
 She¡¯s too busy to help the man.
 She¡¯s surprised by the man¡¯s request.
 She¡¯d rather meet the man tonight.
@@ -322,13 +322,13 @@ Call the company she ordered the books from.
 
 What can be learned about the woman?
 She has to type two more pages,
-She ?nished her work long ago.
+She finished her work long ago.
 She wants the man to help her after he is done.
 She and the man will complete their work at about the same time. 
 
 What does the man say about the editorial?
 It predicted the mayor would lose the election.
-It clari?ed the mayor¡¯s position.
+It clarified the mayor¡¯s position.
 It didn¡¯t accurately represent the mayor¡¯s speech.
 It listed the mayor¡¯s accomplishments.
 
@@ -336,10 +336,10 @@ What can be inferred about the man?
 He doesn¡¯t have the to go to a movie. 
 He¡¯s upset with the woman.
 He doesn¡¯t usually enjoy comedies. 
-He has almost ?nished his work.
+He has almost finished his work.
 
 What is true about the man?
-He has just recovered from the ?u. 
+He has just recovered from the flu. 
 He won¡¯t be able to go to the play.
 He heard that the play isn¡¯t very good.
 He has already seen the play.
@@ -373,14 +373,14 @@ The color should suggest the content.
 What does the man imply about Professor Martin?
 She prepares her students well.
 She used to teach graduate courses.
-She isn¡¯t quali?ed to teach Organic Chemistry.
+She isn¡¯t qualified to teach Organic Chemistry.
 Her students rarely attend graduate school.
 
 Which of the following is true according to the conversation?
 The man decided not to sell the piano.
 The man is looking for a place to store the piano.
 No one has bought the piano.
-The man hasn¡¯t been able to ?nd an inexpensive piano yet.
+The man hasn¡¯t been able to find an inexpensive piano yet.
 
 Why hasn¡¯t the man gotten to know his neighbors?
 He doesn¡¯t like his neighbors.
@@ -390,7 +390,7 @@ He is too busy to meet his neighbors.
 
 What is the implication of the man?
 He already knew about the problem.
-Someone has started ?xing the washing machine.
+Someone has started fixing the washing machine.
 No one complained about the washing machine today.
 There¡®s nothing wrong with the washing machine.
 
@@ -632,7 +632,7 @@ He¡¯s run out of paper.
 He doesn¡¯t have any money
 
 What does the man think of Susan¡¯s apple pie? 
-Nothing can be worse¡¯ than it.
+Nothing can be worse than it.
 It was very delicious.
 It is the best food for everyone in the world.
 Only the last piece was not so good.
@@ -825,7 +825,7 @@ The man may have to reschedule his trip.
 What can be inferred about the woman¡¯s paper?
 It was not long enough.
 It wasn¡¯t as good as she thought.
-Her professor was. pleased with it.
+Her professor was pleased with it.
 It was written according to the professor's guidelines.
 
 What does the man imply the woman should do?
@@ -931,7 +931,7 @@ During the fourth year of medical school, each medical student begins seeking to
 The years of working as residents are not fixed.
 What is the problem for them according to the man?
 The man is too busy to go to the concert with the woman.
-The line for concert tickets is too long. '
+The line for concert tickets is too long.
 The man hasn¡¯t been able to reach Carl.
 Carl declined the invitation to the concert.
 
@@ -1121,7 +1121,7 @@ What do you learn from the conversation?
 The woman agrees with the man.
 The man missed the last study session.
 The woman didn¡¯t understand the last chemistry class.
-The man should be more serious about his' studies.
+The man should be more serious about his studies.
 
 
 
@@ -1255,7 +1255,7 @@ He¡¯s available either day.
 He can¡¯t attend a two-day conference.
 Not everybody will go to the same meeting.
 
-What Will the woman probably do?
+What will the woman probably do?
 Go to the beach with her friends.
 Postpone her meeting with Professor Jones. 
 See Professor Jones after class.
@@ -1405,7 +1405,7 @@ Ask the ticket seller about the umbrella.
 Buy another ticket for the show.
 Write a check for the umbrella.
 
-What can. be inferred about the biography? 
+What can be inferred about the biography? 
 It should be easy to read.
 The woman can finish reading it this weekend.
 It must be very long.
@@ -1418,7 +1418,7 @@ He needs to talk to Harry soon.
 Harry doesn¡¯t have a telephone.
 
 What does the woman mean? 
-She doesn¡¯t think' the shirt¡¯ comes in a bigger size. 
+She doesn¡¯t think the shirt comes in a bigger size. 
 She thinks the shirt will fit the man. 
 A check shirt won¡¯t look good on the man. 
 The bigger sizes are more expensive. 
@@ -1474,7 +1474,7 @@ She will have the man help her with her research paper.
 What information can you get about the man? 
 He prefers to work part-time. 
 He wants to change his class schedule.
-He¡¯s having a difficult time finding a part-time jo
+He¡¯s having a difficult time finding a part-time job
 He doesn¡¯t want to work on campus.
 
 What was the main function of the dowry system?
@@ -1510,7 +1510,7 @@ She was obedient.
 What is the present status of American women?
 They are achieving social and economic equality with men.
 They are offered more opportunities than men. 
-They are 'free to do whatever they like. 
+They are free to do whatever they like. 
 They are more active in politics than men. 
 
 To which of the following groups does politics appeal? 
@@ -1551,7 +1551,7 @@ The job is turning into an excellent opportunity for her.
 
 What is the woman going to do?
 Take the man to the station.
-Find out when the next ?bus leaves.
+Find out when the next bus leaves.
 Show the man the way to the station.
 Look after the man¡¯s things.
 
@@ -1577,7 +1577,7 @@ What does the woman suggest the man do?
 Use bleach on his socks.
 Buy new white socks. 
 Wash his red T-shirt again. 
-Throw away his pink? socks. 
+Throw away his pink socks. 
 
 What does the man imply?
 He hasn¡¯t talked to his brother since he transferred.
@@ -1599,7 +1599,7 @@ He didn¡¯t see the forecast for the weekend.
 
 What will the woman probably do next?
 Leave the art exhibit.
-Help the man understand the display¡¯.
+Help the man understand the display.
 Take the artwork down.
 Call the museum director. 
 
@@ -1618,7 +1618,7 @@ His brother paid too much for the computer.
 What does the man imply? 
 It¡¯s been too warm to wear the jacket.
 The jacket is too big for him. 
-He-doesn¡¯t like cold weather.
+He doesn¡¯t like cold weather.
 He didn¡¯t buy the jacket until cooler weather arrived. 
 
 What does the woman say about Herald? 
@@ -1667,7 +1667,7 @@ Why did Shakespeare leave his native place according to a legend?
 He did not like the life of being an apprentice to a butcher.
 He did not like his school life.
 He wanted to find a job in London.
-He wanted to, be an actor. 
+He wanted to be an actor. 
 
 Why was Shakespeare invited to join the gentlemen¡¯s company?
 Because of his brilliant conversation. 
@@ -1678,7 +1678,7 @@ Because he became Lord Chamberlain.
 What made Shakespeare a wealthy man?
 Help from his friends.
 His connection with the theater.
-The large pr0perty he inherited.
+The large property he inherited.
 His attending the horses for the gentlemen.
 
 Why did Shakespeare have a curse engraved on his gravestone? 
@@ -1945,7 +1945,7 @@ In tree nurseries in Alabama and Oregon.
 At Mount Vernon.
 In Arnold Arboretum at Harvard University. 
 
-Which of the following" is NOT true about cloning trees? 
+Which of the following is NOT true about cloning trees? 
 Grafting is the name of the process used to copy trees. 
 Grafting has existed for a very short time. 
 The T-bud technique is often used to clone trees. 
@@ -1961,7 +1961,7 @@ What does the speaker mainly talk about?
 The dinosaurs images. 
 The dinosaurs heads. 
 The dinosaurs¡¯ nostril position. 
-The dinosaurs¡¯ sense of smell;
+The dinosaurs¡¯ sense of smell.
 
 What did dinosaurs use their nostrils to do? 
 Breathe
@@ -1990,7 +1990,7 @@ Dinosaurs were sea creatures.
 Why doesn¡¯t the man wear his yellow shirt?
 The shirt lacks buttons.
 He can¡¯t find the shirt.
-He doesn¡¯t like the shirt". 
+He doesn¡¯t like the shirt. 
 He thinks the shirt is inappropriate for the occasion. 
 
 What information can you get about the man? 
@@ -2035,8 +2035,8 @@ His calculator is broken.
 He doesn¡¯t want to lend his calculator to anyone.
 Someone else borrowed his calculator.
 
-Winch of the following is true about the man ?
-He likes. to drink coffee in the morning.
+Which of the following is true about the man ?
+He likes to drink coffee in the morning.
 He seldom wakes up early.
 He needs tea to feel alert. 
 He doesn¡¯t usually eat breakfast. 
@@ -2051,7 +2051,7 @@ What will the woman probably do next?
 She will lend her car to the man.
 She¡¯ll go shopping with the man. 
 She is going to have her car repaired. 
-She will go to the supermarket near' the school by herself. 
+She will go to the supermarket near the school by herself. 
 
 What does the woman mean? 
 The man should not take off his jacket.
@@ -2125,7 +2125,7 @@ Three.
 Four.
 Nineteen.
 
-What do critics say about the two sisters? They do not play their best tennis against each other.
+What do critics say about the two sisters?
 They do not play their best tennis against each other.
 Serena plays tennis better than Venus.
 The two sisters are not the top tennis players in American history. 
@@ -2169,7 +2169,7 @@ Keep his books from the literature class.
 Sell his literature books to the woman. 
 Give his literature books to his roommate.
 
-What does the woman imply the man. should do?
+What does the woman imply the man should do?
 Fill out an application form. 
 Apply for a different position.
 File the papers in the cabinet. 
@@ -2202,7 +2202,7 @@ They also may get a lot of snow.
 What will the woman probably do? 
 She will spend some time to get ready for the dinner.
 She will join them for dinner on time.
-She Will go out shopping.
+She will go out shopping.
 She will need all the time she can get to prepare for a test. 
 
 What does the man suggest the woman do? 
@@ -2253,7 +2253,7 @@ People who studied foreign languages in college.
 People skilled in computer technology, science and languages.
 People skilled in gathering and studying intelligence information.
 
-What do some" civil rights groups a with traditional American rights.
+What do some civil rights groups a with traditional American rights.
 The new rules interfere with traditional American rights.
 The new rules have threatened the safety of American Muslims.
 The new rules will bring efficiency to the FBI.
@@ -2272,12 +2272,12 @@ More than 17,000 tons.
 More than 70,000 tons.
 
 According to Bush Administration officials, why is Yucca Mountain a good place to bury the nuclear waste?
-Because it rains very, often in this area.
-Because it is in an extremely. cold area.
-Because of its lack population. audios-v rainfall.
+Because it rains very often in this area.
+Because it is in an extremely cold area.
+Because of its lack population audios-v rainfall.
 Because it is in the central part of the U.S. 
 
-Why do some people Oppose the nuclear waste burial project?
+Why do some people oppose the nuclear waste burial project?
 They say Yucca mountain has experienced earthquakes.
 They think the radioactive material may pollute underground water because of movements in the earth. 
 

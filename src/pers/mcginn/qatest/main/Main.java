@@ -30,7 +30,7 @@ public class Main {
 
 	private JFrame frame = null;
 
-	private List<Question> list = null;
+	private List<Problem> list = null;
 	private int index = 0;
 
 	Main() {
@@ -60,13 +60,13 @@ public class Main {
 		// Solved / Total
 		panel.add(new JLabel((index + 1) + " / " + list.size()), gbc);
 		// Problem Infomation
-		Question question = list.get(index);
+		Problem question = list.get(index);
 		JTextArea jta = new JTextArea();
 		jta.setEditable(false);
 		jta.setLineWrap(true);
 		jta.setWrapStyleWord(true);
 		jta.setOpaque(false);
-		jta.setText(question.getProblem());
+		jta.setText(question.getQuestion());
 		jta.setPreferredSize(new Dimension(width, 140));
 		jta.setFont(new Font("Serif", Font.PLAIN, 32));
 		gbc.gridx = 0;
@@ -83,40 +83,60 @@ public class Main {
 			gbc.fill = GridBagConstraints.NONE;
 			group.add(jrb);
 			panel.add(jrb, gbc);
-		}
-		JButton btnNext = new JButton("next");
-		btnNext.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent arg0) {
-				// TODO Auto-generated method stub
-				if (group.getSelection() != null) {
-					Enumeration<AbstractButton> btns = group.getElements();
-					while (btns.hasMoreElements()) {
-						AbstractButton btn = btns.nextElement();
-						if (btn.isSelected()) {
-							String selected = btn.getText();
-							if (selected.equals(question.getAnswer())) {
-								if (index + 1 < list.size()) {
-									index += 1;
-									updateContent();
-								} else {
-									JOptionPane.showMessageDialog(frame, "Good job. :)", "Message",
-											JOptionPane.INFORMATION_MESSAGE);
-									System.exit(0);
-								}
-							} else {
-								JOptionPane.showMessageDialog(frame, "Answer is \"" + question.getAnswer() + "\"",
-										"Wrong Answer", JOptionPane.ERROR_MESSAGE);
-							}
+			jrb.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent arg0) {
+					AbstractButton btn = (AbstractButton) arg0.getSource();
+					String selected = btn.getText();
+					if (selected.equals(question.getAnswer())) {
+						if (index + 1 < list.size()) {
+							index += 1;
+							updateContent();
+						} else {
+							JOptionPane.showMessageDialog(frame, "Good job. :)", "Message",
+									JOptionPane.INFORMATION_MESSAGE);
+							System.exit(0);
 						}
+					} else {
+						JOptionPane.showMessageDialog(frame, "Answer is \"" + question.getAnswer() + "\"",
+								"Wrong Answer", JOptionPane.ERROR_MESSAGE);
 					}
 				}
-			}
-		});
-		gbc.gridx = 0;
-		gbc.gridy++;
-		gbc.gridwidth = 2;
-		panel.add(btnNext, gbc);
+			});
+		}
+		// JButton btnNext = new JButton("next");
+		// btnNext.addActionListener(new ActionListener() {
+		// @Override
+		// public void actionPerformed(ActionEvent arg0) {
+		// // TODO Auto-generated method stub
+		// if (group.getSelection() != null) {
+		// Enumeration<AbstractButton> btns = group.getElements();
+		// while (btns.hasMoreElements()) {
+		// AbstractButton btn = btns.nextElement();
+		// if (btn.isSelected()) {
+		// String selected = btn.getText();
+		// if (selected.equals(question.getAnswer())) {
+		// if (index + 1 < list.size()) {
+		// index += 1;
+		// updateContent();
+		// } else {
+		// JOptionPane.showMessageDialog(frame, "Good job. :)", "Message",
+		// JOptionPane.INFORMATION_MESSAGE);
+		// System.exit(0);
+		// }
+		// } else {
+		// JOptionPane.showMessageDialog(frame, "Answer is \"" + question.getAnswer() +
+		// "\"",
+		// "Wrong Answer", JOptionPane.ERROR_MESSAGE);
+		// }
+		// }
+		// }
+		// }
+		// }
+		// });
+		// gbc.gridx = 0;
+		// gbc.gridy++;
+		// gbc.gridwidth = 2;
+		// panel.add(btnNext, gbc);
 		panel.setBorder(BorderFactory.createEmptyBorder(10, 20, 10, 20));
 		frame.add(panel);
 
@@ -126,13 +146,13 @@ public class Main {
 
 	private void getData() {
 		try {
-			list = Service.getListQuestion("text.txt", "ans.txt");
+			list = Service.getListProblem("text.txt", "ans.txt");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		System.out.println("size = " + list.size());
 		Collections.shuffle(list);
-		for (Question q : list) {
+		for (Problem q : list) {
 			q.shuffleOptions();
 		}
 	}

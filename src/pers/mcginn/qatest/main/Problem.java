@@ -4,34 +4,34 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Question {
+public class Problem {
 
-	private String problem;
+	private String question;
 	private String answer;
 	private List<String> options;
 
 	public void setAnswer(int index) {
 		if (index < 0 || index >= options.size())
-			return ;
+			return;
 		answer = options.get(index);
 	}
-	
+
 	public void addOption(String opt) {
-		if (options == null) 
+		if (options == null)
 			options = new ArrayList<String>();
 		options.add(opt);
 	}
-	
+
 	public void shuffleOptions() {
 		Collections.shuffle(options);
 	}
-	
-	public String getProblem() {
-		return problem;
+
+	public String getQuestion() {
+		return question;
 	}
 
-	public void setProblem(String problem) {
-		this.problem = problem;
+	public void setQuestion(String question) {
+		this.question = question;
 	}
 
 	public String getAnswer() {
